@@ -27,3 +27,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/bbdownloads/
+!/res/README.md
+/res/*
